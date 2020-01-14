@@ -1,14 +1,14 @@
  const links = [
     {
-        labem: 'Gihub',
+        label: 'Gihub',
         url: 'https://github.com/thiagolavor'
     },
     {
-        labem: 'Twitter',
+        label: 'Twitter',
         url: 'https://twitter.com/tlavordeveloper'
     },
     {
-        labem: 'Facebool',
+        label: 'Facebook',
         url: 'https://facebook.com/tlavordeveloper'
     },
 ]

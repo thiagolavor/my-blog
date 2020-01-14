@@ -1,12 +1,12 @@
 import React from 'react'
 import Profile from '../Profile'
-import SocialLinks from '../SocialLinks'
+import SocialLinks from "../SocialLinks"
 import * as S from './style'
 
 const Sidebar = () => (
     <S.SidebarWrapper>
         <Profile/>
-        <SocialLinks/>
+        <SocialLinks />
     </S.SidebarWrapper>
 )
 export default Sidebar
